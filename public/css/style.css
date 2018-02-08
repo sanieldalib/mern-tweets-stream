@@ -13,51 +13,6 @@ body
     color: white;
     background: #2c3e50;
 }
-
-footer
-{
-    position: fixed;
-    z-index: 999;
-    bottom: 0;
-
-    width: 100%;
-    padding: 20px;
-
-    background: #abd9ff;
-}
-
-footer a,
-footer span
-{
-    font-size: 12px;
-    font-weight: bold;
-}
-
-footer a.link-back
-{
-    text-decoration: none;
-
-    color: #2c3e50;
-}
-
-footer .twitter-share-button
-{
-    margin-right: 10px;
-}
-
-footer span.update-message
-{
-    padding-top: 3px;
-
-    color: #2c3e50;
-}
-
-footer .twitter-share-button,
-footer .update-message
-{
-    float: right;
-}
-
 .loader
 {
     text-align: center;
